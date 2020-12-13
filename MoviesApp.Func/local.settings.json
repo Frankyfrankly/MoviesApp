@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MoviesApi.ApiUrl": "http://www.omdbapi.com",
+    "MoviesApi.ApiKey": "9b520ce"
+  }
+}
